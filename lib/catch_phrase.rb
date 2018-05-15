@@ -1,2 +1,2 @@
-def catch_phrase(ph)
+def catch_phrase(phrase)
 end
